@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate with **companies looking for quality apps to grow its business** and **content creators**
 
-- ⚡ **I love running** and whether you are advanced runner or just don't know how to start you should definitely join our [strava club](https://www.strava.com/clubs/705415). Let's enjoy running together!🏃🏃🏿🏃‍♂️🏃🏾
+- ⚡ **I love running** and whether you are advanced runner or just don't know how to start you should definitely join our [running club "Forest"](https://www.strava.com/clubs/705415) and [read](https://forest-club.github.io/) about running. Let's enjoy running together!🏃🏃🏿🏃‍♂️🏃🏾
 
 
 ### Connect with me:
