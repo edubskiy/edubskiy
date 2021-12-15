@@ -17,6 +17,8 @@
 
 <a href="https://twitter.com/edubskiy" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="edubskiy" height="22" width="22" /></a>
 <a href="https://linkedin.com/in/edubskiy" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edubskiy" height="22" width="22" /></a>
+<a href="https://instagram.com/in/allure.ventures" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="allure.ventures" height="22" width="22" /></a>
+
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="dart" width="22" height="22"/>
