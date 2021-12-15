@@ -3,7 +3,6 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/edubskiy?label=edubskiy&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/edubskiy?logo=GitHub&style=for-the-badge)
-![GitHub followers](https://img.shields.io/instagram/followers/e.dubskiy?logo=instagram&style=for-the-badge)
 
 - 🔭 I’m currently working on [Arrival](https://arrival.com/) and [Allure Ventures](https://allure.ventures)
 
@@ -24,9 +23,9 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="git" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="linux" width="22" height="22"/>  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edubskiy&layout=compact&hide=html" alt="edubskiy" /></p>
