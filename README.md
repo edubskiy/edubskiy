@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**, checkout my portfolio [dubskiy.com](http://dubskiy.com), made with ❤️ in Flutter and **Microservices** which we with my team are making on the our current project at Arrival
 
-- 👯 I’m looking to collaborate with **companies looking for quality apps to grow its business** and **other content creators**
+- 👯 I’m looking to collaborate with **companies looking for quality apps to grow its business** and **content creators**
 
 - ⚡ **I love running** and whether you are advanced runner or just don't know how to start you should definitely join our [strava club](https://www.strava.com/clubs/705415). Let's enjoy running together!🏃🏃🏿🏃‍♂️🏃🏾
 
@@ -19,13 +19,15 @@
 <a href="https://linkedin.com/in/edubskiy" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edubskiy" height="22" width="22" /></a>
 
 <p align="left">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="dart" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="figma" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="git" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="linux" width="22" height="22"/>  
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edubskiy&layout=compact&hide=html" alt="edubskiy" /></p>
