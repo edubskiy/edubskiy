@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Arrival](https://arrival.com/) and [Allure Ventures](https://allure.ventures)
 
-- 🌱 I’m currently learning **Flutter**, checkout my portfolio [dubskiy.com](http://dubskiy.com), made with ❤️ in Flutter and **Microservices** which we with my team are making on the our current project at Arrival
+- 🌱 I’m currently learning **Flutter**, checkout my portfolio [dubskiy.com](http://dubskiy.com), made with ❤️  in Flutter and **Microservices** which we with my team are making on the our current project at Arrival
 
 - 👯 I’m looking to collaborate with **companies looking for quality apps to grow its business** and **content creators**
 
