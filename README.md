@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Arrival](https://arrival.com/) and [Allure Ventures](https://allure.ventures)
 
-- 🌱 I’m currently learning **Flutter**, checkout my portfolio [dubskiy.com](http://dubskiy.com), made with ❤️  in Flutter and **Microservices** which we with my team are making on the our current project at Arrival
+- 🌱 I’m currently learning **Flutter**, checkout my portfolio [dubskiy.com](http://dubskiy.com), made with ❤️  in Flutter and **Microservices** which we with my team are making on our current project at Arrival
 
 - 👯 I’m looking to collaborate with **companies looking for quality apps to grow its business** and **content creators**
 
-- ⚡ **I love running** and whether you are advanced runner or just don't know how to start you should definitely join our [running club "Forest"](https://www.strava.com/clubs/705415) and [read](https://forest-club.github.io/) about running. Let's enjoy running together!🏃🏃🏿🏃‍♂️🏃🏾
+- ⚡ **I love running** and whether you are advanced runner or just don't know how to start you should definitely join our [running club "Forest"](https://www.strava.com/clubs/705415) and [read](https://forest-club.github.io/) about running. Let's run together!🏃🏃🏿🏃‍♂️🏃🏾
 
 
 ### Connect with me:
