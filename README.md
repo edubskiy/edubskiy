@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/edubskiy?label=edubskiy&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/edubskiy?logo=GitHub&style=for-the-badge)
 
-- 🔭 I’m currently working on [Arrival](https://arrival.com/) and [ERARTA AI](https://erarta.ai)
+- 🔭 I’m currently working on [MODERA FASHION](https://modera.fashion/) and [ERARTA AI](https://erarta.ai)
 
 - 🌱 I’m currently learning **Flutter**, checkout my portfolio [dubskiy.com](http://dubskiy.com), made with ❤️  in Flutter and **Microservices** which we with my team are making on our current project at Arrival
 
